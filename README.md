@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:B00020,100:FF1744&height=240&section=header&text=Juan%20Vizuette&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20Games%20%7C%20AI&descAlignY=60&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:B00020,100:FF1744&height=240&section=header&text=Juan%20Vizuette&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Mobile%20%7C%20Games%20%7C%20Data&descAlignY=60&descSize=17" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2400&pause=600&color=FF1744&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Juan+Vizuette+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Desarrollo+Web+%7C+Apps+M%C3%B3viles+%7C+Videojuegos+%F0%9F%8E%AE;IA+%7C+Bases+de+Datos+%7C+Dashboards+%7C+Cloud+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2400&pause=600&color=FF1744&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Juan+Vizuette+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Desarrollo+Web+%7C+Apps+M%C3%B3viles+%7C+Videojuegos+%F0%9F%8E%AE;Bases+de+Datos+%7C+Dashboards+%7C+Despliegue+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@
 
 Soy **Juan Vizuette**, estudiante de **Ingeniería de Software**.
 
-Me gusta crear proyectos completos mezclando diseño, código, bases de datos, inteligencia artificial, aplicaciones móviles y videojuegos.
+Me gusta crear proyectos completos mezclando diseño, código, bases de datos, aplicaciones móviles, videojuegos y análisis de datos.
 
 <pre>
 ⚡ Desarrollo Web
-📱 Apps móviles Android / iOS
+📱 Apps móviles
 🎮 Videojuegos 2D
-🧠 Inteligencia Artificial
 🗄️ Bases de datos
-📊 Dashboards y análisis de datos
+📊 Dashboards
+🎨 Diseño de interfaces
 🚀 Despliegue de proyectos
 </pre>
 
@@ -57,46 +57,8 @@ Me gusta crear proyectos completos mezclando diseño, código, bases de datos, i
 
 ## 🧰 Tecnologías y herramientas
 
-### 🌐 Desarrollo Web
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,tailwind,bootstrap,vite" />
-</p>
-
-### ⚙️ Backend y APIs
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,java,spring,cs,dotnet,php,laravel" />
-</p>
-
-### 📱 Apps móviles
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,apple" />
-</p>
-
-### 🎮 Videojuegos
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,godot,blender" />
-</p>
-
-### 🗄️ Bases de datos
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase,prisma" />
-</p>
-
-### 🤖 IA, datos y automatización
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,opencv" />
-</p>
-
-### ☁️ Cloud, despliegue y herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,heroku,aws,docker,linux,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,python,django,flutter,dart,java,cs,unity,postgres,mysql,firebase,git,github,vercel,linux,vscode,figma,postman" />
 </p>
 
 ---
@@ -108,22 +70,22 @@ Me gusta crear proyectos completos mezclando diseño, código, bases de datos, i
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/80/source-code.png" />
 <br><b>Web</b>
-<br>Frontend moderno y backend funcional.
+<br>Frontend, backend y proyectos completos.
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/80/android-os.png" />
 <br><b>Mobile</b>
-<br>Apps Android, iOS y multiplataforma.
+<br>Apps móviles y soluciones multiplataforma.
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/80/controller.png" />
 <br><b>Games</b>
-<br>Videojuegos 2D, mecánicas y UI.
+<br>Videojuegos 2D, interfaces y mecánicas.
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/80/artificial-intelligence.png" />
-<br><b>AI & Data</b>
-<br>Modelos, dashboards y automatización.
+<img src="https://img.icons8.com/fluency/80/combo-chart.png" />
+<br><b>Data</b>
+<br>Dashboards, análisis y visualización.
 </td>
 </tr>
 </table>
@@ -187,13 +149,13 @@ Análisis de información, limpieza de datos y visualización para toma de decis
 
 ### 🧠 IA aplicada
 
-Uso de inteligencia artificial para apoyar procesos, automatizar tareas y crear sistemas más útiles.
+Uso de inteligencia artificial para apoyar procesos, automatizar tareas y mejorar proyectos.
 
 <pre>
 🤖 Chatbots
 🧩 Automatización
 📚 Procesamiento de datos
-🧠 Modelos inteligentes
+🧠 Sistemas inteligentes
 </pre>
 
 </td>
@@ -207,14 +169,30 @@ Uso de inteligencia artificial para apoyar procesos, automatizar tareas y crear 
 <pre>
 Frontend Web        █████████░  90%
 Backend APIs        ████████░░  80%
-Apps Android        ████████░░  80%
-Apps iOS            ███████░░░  70%
+Apps móviles        ████████░░  80%
 Videojuegos 2D      ███████░░░  70%
 Bases de datos      ████████░░  80%
 UI / UX             █████████░  90%
-IA aplicada         ███████░░░  70%
-Cloud / Deploy      ███████░░░  70%
+Datos y dashboards  ███████░░░  70%
+Deploy              ███████░░░  70%
 </pre>
+
+---
+
+## 🐾 Princesa
+
+<p align="center">
+  <img src="https://img.shields.io/badge/En%20memoria%20de-Princesa-FF1744?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Princesa</b>, mi pug, siempre tendrá un lugar especial en mi historia.  
+  Su recuerdo me acompaña como símbolo de cariño, lealtad y fuerza para seguir adelante.
+</p>
+
+<p align="center">
+  🐶❤️ <b>Para siempre, Princesa</b> ❤️🐶
+</p>
 
 ---
 
@@ -254,8 +232,8 @@ Cloud / Deploy      ███████░░░  70%
 ║              JUAN DEV SYSTEM                ║
 ╠══════════════════════════════════════════════╣
 ║  Status:       Coding...                     ║
-║  Mode:         Full Stack                    ║
-║  Focus:        Web | Mobile | Games | AI     ║
+║  Mode:         Software Engineering          ║
+║  Focus:        Web | Mobile | Games | Data   ║
 ║  Energy:       ██████████ 100%               ║
 ║  Debug:        Active                        ║
 ║  Deploy:       Loading...                    ║
@@ -263,44 +241,7 @@ Cloud / Deploy      ███████░░░  70%
 </pre>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2200&pause=500&color=FF1744&center=true&vCenter=true&width=900&lines=SELECT+YOUR+MISSION;BUILD+A+WEB+APP;CREATE+A+MOBILE+APP;DESIGN+A+GAME;TRAIN+AN+AI;DEPLOY+THE+PROJECT" />
-</p>
-
----
-
-## 🎮 Mini juego
-
-<pre>
-START
-  │
-  ▼
-🧑‍💻 Learn Code
-  │
-  ▼
-🌐 Build Web App
-  │
-  ▼
-📱 Create Mobile App
-  │
-  ▼
-🎮 Design Game
-  │
-  ▼
-🧠 Add AI
-  │
-  ▼
-🚀 Deploy
-  │
-  ▼
-🏆 PROJECT COMPLETE
-</pre>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LEVEL%2001-WEB-FF1744?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEVEL%2002-MOBILE-B00020?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEVEL%2003-GAMES-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEVEL%2004-AI-FF1744?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FINAL%20BOSS-DEPLOYMENT-B00020?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2200&pause=500&color=FF1744&center=true&vCenter=true&width=900&lines=BUILD+A+WEB+APP;CREATE+A+MOBILE+APP;DESIGN+A+GAME;ANALYZE+DATA;DEPLOY+THE+PROJECT" />
 </p>
 
 ---
