@@ -23,16 +23,3 @@
 </p>
 
 ---
-
-<table align="center">
-<tr>
-<td width="58%">
-
-## 👨‍💻 Sobre mí
-
-Soy **Juan Vizuette**, estudiante de **Ingeniería de Software**.
-
-Me gusta crear proyectos completos mezclando diseño, código, bases de datos, inteligencia artificial, aplicaciones móviles y videojuegos.
-
-
-<table align="center"> <tr> <td width="50%">
