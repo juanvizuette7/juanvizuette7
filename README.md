@@ -199,12 +199,17 @@ Deploy              ███████░░░  70%
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanvizuette7&show_icons=true&theme=radical&hide_border=true&border_radius=15&title_color=FF1744&icon_color=FF1744" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanvizuette7&theme=radical&hide_border=true&border_radius=15&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanvizuette7&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvizuette7&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=FF1744" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanvizuette7&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juanvizuette7&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanvizuette7&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juanvizuette7&theme=radical&utcOffset=-5" />
 </p>
 
 ---
@@ -249,7 +254,7 @@ Deploy              ███████░░░  70%
 ## 🌐 Redes sociales
 
 <p align="center">
-  <a href="mailto:TU-CORREO@gmail.com">
+  <a href="mailto:juanvizuette58@gmail.com">
     <img src="https://img.icons8.com/color/65/gmail-new.png" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -257,19 +262,19 @@ Deploy              ███████░░░  70%
     <img src="https://img.icons8.com/ios-glyphs/65/FF1744/github.png" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/juanvizuette7">
     <img src="https://img.icons8.com/color/65/linkedin.png" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/">
+  <a href="https://www.instagram.com/juanfajaardo">
     <img src="https://img.icons8.com/fluency/65/instagram-new.png" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/">
+  <a href="https://www.facebook.com/Juan-Fajardo">
     <img src="https://img.icons8.com/color/65/facebook-new.png" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/mrbeast">
     <img src="https://img.icons8.com/color/65/youtube-play.png" />
   </a>
 </p>
