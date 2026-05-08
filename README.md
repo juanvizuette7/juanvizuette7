@@ -37,7 +37,6 @@ Me gusta crear proyectos completos mezclando diseño, código, bases de datos, a
 <pre>
 ⚡ Desarrollo Web
 📱 Apps móviles
-🎮 Videojuegos 2D
 🗄️ Bases de datos
 📊 Dashboards
 🎨 Diseño de interfaces
